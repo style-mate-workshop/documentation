@@ -17,8 +17,8 @@ The app will:
 **3\. Are there other approaches?**
 
 - Choosing the outfit the day before:Users can plan their outfits the night before, taking time to consider the weather, occasion, and personal preferences. This proactive method can reduce morning stress but still requires effort and decision-making, which some may find inconvenient.
-- **Hiring a stylist to create built-in outfits and sets:  
-    **A professional stylist can help users by creating pre-designed outfit combinations tailored to their wardrobe and preferences. While effective, this approach can be costly and time-consuming, making it less accessible for everyday use.
+- Hiring a stylist to create built-in outfits and sets:  
+    A professional stylist can help users by creating pre-designed outfit combinations tailored to their wardrobe and preferences. While effective, this approach can be costly and time-consuming, making it less accessible for everyday use.
 
 While these methods address the problem, they often involve either significant manual effort or higher costs. Our app combines the benefits of automation, personalization, and simplicity to provide a seamless and efficient solution.
 
